@@ -9,8 +9,8 @@ I have always been interested in programming. For last 3 years I completed:
 
 Currently I'm learning **Java Developer Training Program** at **SoftwareSkill** (a [link](https://softwareskill.pl/program/java-developer)).
 
-Skills:
-------
+Technical skills:
+-----------------
 * **Java EE**
 * **Spring/Spring Boot**
 * **JPA/Hibernate**
