@@ -7,8 +7,8 @@ I have always been interested in programming. For last 3 years I completed:
 2. **Modern Business Applications in Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**.
 3. **Spring Boot** course at **SoftwareSkill**.
 
-Currently I'm learning **Java Developer Training Program** at **SoftwareSkill**.
+Currently I'm learning **Java Developer Training Program** at **SoftwareSkill** (a [link](https://softwareskill.pl/program/java-developer)).
 
 Skills:
 ------
-Java EE, Spring, Spring Boot, JPA, Hibernate, Python, databases (PostgreSQL, Apache Derby, SQLite) and much more
+Java EE, Spring/Spring Boot, JPA/Hibernate, Python, databases (PostgreSQL, Apache Derby, SQLite) and much more.
