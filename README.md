@@ -11,9 +11,7 @@ Currently I am learning **Java Developer Training Program** on **SoftwareSkill.p
 
 Technical skills:
 -----------------
-* **Java EE**
-* **Spring Boot**
+* **Java EE**/**Spring Boot**
 * **JPA/Hibernate**
-* **Python**
 * **databases** (**PostgreSQL**, **Apache Derby**, **SQLite**) 
 * and much more.
