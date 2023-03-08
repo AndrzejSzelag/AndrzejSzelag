@@ -13,5 +13,5 @@ Technical skills:
 -----------------
 * **Java EE** | **Spring Boot**
 * **JPA/Hibernate**
-* **databases** (**PostgreSQL**, **Apache Derby**, **SQLite**) 
+* **databases** (**Oracle Database**, **PostgreSQL**, **Apache Derby**) 
 * and much more.
