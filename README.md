@@ -7,7 +7,7 @@ I have always been interested in programming. For last 3 years I completed:
 2. **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**.
 3. **Spring Boot** course on **SoftwareSkill.pl** web platform.
 
-Currently I am learning **Java Developer Training Program** on **SoftwareSkill.pl** web platform ([link](https://softwareskill.pl/program/java-developer)).
+Currently, I am learning **Java Developer Training Program** on **SoftwareSkill.pl** web platform ([link](https://softwareskill.pl/program/java-developer)).
 
 Technical skills:
 -----------------
