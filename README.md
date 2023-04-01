@@ -1,5 +1,5 @@
-About me:
----------
+About me
+--------
 Hi, My name is **Andrzej**. I come from Poland. 
 
 I have always been interested in programming. For last 3 years I completed:
@@ -12,9 +12,12 @@ Currently, I am learning **Java Developer Training Program** on **SoftwareSkill.
 Learning and development are very important for me.
 
 
-Technical skills:
------------------
-* **Java EE** | **Spring Boot**
-* **JPA/Hibernate**
-* **databases** (**Oracle Database**, **PostgreSQL**, **Apache Derby**) 
+Technical skills
+----------------
+Languages, frameworks and tools which I am still improving:
+
+* 🔶 **Java EE**
+* 🔶 **Spring Boot**
+* 🔶 **JPA/Hibernate**
+* 🔶 **Oracle Database** 
 * and much more.
