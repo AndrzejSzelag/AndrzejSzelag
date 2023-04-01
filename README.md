@@ -14,7 +14,7 @@ Learning and development are very important for me.
 
 Technical skills
 ----------------
-Languages, frameworks and tools which I am still improving:
+Programming languages, frameworks and tools which I am still improving:
 
 * 🔶 **Java EE**
 * 🔶 **Spring Boot**
