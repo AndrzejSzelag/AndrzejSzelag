@@ -1,5 +1,5 @@
-Info:
------
+About me:
+---------
 Hi, My name is **Andrzej**. I come from Poland. 
 
 I have always been interested in programming. For last 3 years I completed:
