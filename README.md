@@ -9,15 +9,15 @@ I have always been interested in programming. For last 3 years I completed:
 
 Currently, I am learning **Java Developer Training Program** on **SoftwareSkill.pl** web platform ([link](https://softwareskill.pl/program/java-developer)).
 
-Learning and development are very important for me.
+Learning and development are very important for me. ❤️
 
 
 Technical skills
 ----------------
 Programming languages, frameworks and tools which I am still improving:
 
-* 🔶 **Java EE**
-* 🔶 **Spring Boot**
-* 🔶 **JPA/Hibernate**
-* 🔶 **Oracle Database** 
+* ❤️ **Java EE**
+* ❤️ **Spring Boot**
+* ❤️ **JPA/Hibernate**
+* ❤️ **Oracle Database** 
 * and much more.
