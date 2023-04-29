@@ -16,9 +16,6 @@ Technical skills
 ----------------
 Programming languages, frameworks and tools which I am still improving:
 
-* ❤️ **Java EE**
-* ❤️ **Spring Boot**
-* ❤️ **JPA**
-* ❤️ **Hibernate**
-* ❤️ **Oracle Database** 
-* and much more.
+* ❤️ **Java** / **Spring Boot**
+* ❤️ **JPA**/ **Hibernate**
+* ❤️ **Oracle Database** and much more.
