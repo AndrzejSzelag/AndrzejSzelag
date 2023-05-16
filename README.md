@@ -19,5 +19,6 @@ Programming languages, frameworks and tools which I am still improving:
 * **Java**
 * **Spring Boot**
 * **Hibernate**
+* **Maven** 
 * **Oracle Database** 
 * **Docker** and much more...
