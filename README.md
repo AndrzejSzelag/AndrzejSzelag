@@ -5,6 +5,10 @@
 <szelagandrzej@gmail.com>
 
 
+### Hello World ?
+I am a fullstack software engineer from bangladesh- ? Working on multiple frontend and backend project using React and Nodejs
+- ? Learning design patterns in depth
+
 ### About me ?
 Hi, My name is **Andrzej**. I come from Poland. 
 
