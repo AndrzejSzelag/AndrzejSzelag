@@ -4,9 +4,9 @@
 
 ### About me
 
-Hi, My name is **Andrzej**. I come from Poland. 
+I am a begginer Java Software Developer. For about three years I have been developing web-based applications using latest technologies such as: Java, Spring Boot, Maven, Hibernate and Oracle Database.
 
-I have always been interested in programming. For last 3 years I completed:
+I completed:
 * 💎 **CS50's Web Programming with Python and JavaScript** course at **Harvard University**.
 * 💎 **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**.
 * 💎 **Spring Boot** course on **SoftwareSkill.pl** web platform.
