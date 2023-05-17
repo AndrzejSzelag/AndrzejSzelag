@@ -1,6 +1,7 @@
 ## Andrzej Szelag
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/andrzej szelag-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrzej-szel%C4%85g-91460b257)
 
+### About me
 
 Hi, My name is **Andrzej**. I come from Poland. 
 
@@ -16,6 +17,7 @@ Learning and development are very important for me. ❤️
 Youtube Channel: [https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg](https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg)
 
 ### Technical skills
+
 Programming languages, frameworks and tools which I am still improving:
 
 * **Java**
