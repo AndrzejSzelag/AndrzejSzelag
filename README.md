@@ -2,6 +2,7 @@
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/Andrzej Szelag-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrzej-szel%C4%85g-91460b257)
 
+Youtube Channel: [https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg](https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg)
 
 <szelagandrzej@gmail.com>
 
