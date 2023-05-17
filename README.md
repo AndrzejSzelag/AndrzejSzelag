@@ -26,5 +26,4 @@ Programming languages, frameworks and tools which I am still improving:
 <img align="left" alt="oracledatabase" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /><br><br>
 
 ### My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrzejszelag&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejszelag)](https://github.com/andrzejszelag/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrzejszelag&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
