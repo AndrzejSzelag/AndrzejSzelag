@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ## Andrzej Szelag
 [<img align="left" alt="github" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AndrzejSzelag?tab=repositories)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrzej-szel%C4%85g-91460b257)
