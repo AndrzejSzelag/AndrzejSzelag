@@ -1,5 +1,5 @@
 # Andrzej Szelag
-__szelagandrzej@gmail.com__
+<szelagandrzej@gmail.com>
 
 ### About me
 ---
