@@ -1,5 +1,7 @@
 # Andrzej Szelag
+
 <szelagandrzej@gmail.com>
+
 [LinkedIn Profile](https://www.linkedin.com/in/andrzej-szel%C4%85g-91460b257/)
 
 ### About me
