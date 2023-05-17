@@ -1,9 +1,8 @@
 # Andrzej Szelag
-___
 __szelagandrzej@gmail.com__
 
 ### About me
-___
+---
 Hi, My name is **Andrzej**. I come from Poland. 
 
 I have always been interested in programming. For last 3 years I completed:
@@ -17,7 +16,7 @@ Learning and development are very important for me. ❤️
 
 
 ### Technical skills
-___
+---
 Programming languages, frameworks and tools which I am still improving:
 
 * **Java**
