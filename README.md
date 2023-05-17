@@ -25,4 +25,4 @@ Programming languages, frameworks and tools which I am still improving:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrzejszelag)](https://github.com/andrzejszelag/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrzejszelag&show_icons=true)
