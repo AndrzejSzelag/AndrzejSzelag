@@ -24,5 +24,7 @@ Programming languages, frameworks and tools which I am still improving:
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
 <img align="left" alt="oracledatabase" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /><br><br>
+<br><br>
 
+### My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejszelag&langs_count=8)](https://github.com/andrzejszelag/github-readme-stats)
