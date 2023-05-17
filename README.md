@@ -6,7 +6,6 @@
 <br><br>
 
 ### About me
-
 I am a begginer Java Software Developer. Since about three years I have been developing web-based applications using latest technologies such as: __Java__/__Java EE__, __Spring__/__Spring Boot__, __Maven__, __JPA__/__Hibernate__, __Oracle Database__, __Python__, __Django__, __JavaScript__ and __SQLite__. In this time I completed:
 * 💎 **CS50's Web Programming with Python and JavaScript** course at **Harvard University**.
 * 💎 **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**.
@@ -14,11 +13,9 @@ I am a begginer Java Software Developer. Since about three years I have been dev
 * 💎 **Java Developer Training Program** course on **SoftwareSkill.pl** web platform ([🚀](https://softwareskill.pl/program/java-developer)).
 
 Learning and development are very important for me. ❤️
-
-Youtube Channel: [https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg](https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg)
+<br><br>
 
 ### Stack I work with
-
 Programming languages, frameworks and tools which I am still improving:
 
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
