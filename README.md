@@ -1,6 +1,5 @@
 # Andrzej Szelag
-
-[Contact e-mail](szelagandrzej@gmail.com)
+__szelagandrzej@gmail.com__
 
 ### About me
 Hi, My name is **Andrzej**. I come from Poland. 
