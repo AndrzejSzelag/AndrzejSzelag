@@ -16,7 +16,7 @@ Learning and development are very important for me. ❤️
 
 Youtube Channel: [https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg](https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg)
 
-### Technical skills
+### Stack I work with
 
 Programming languages, frameworks and tools which I am still improving:
 
