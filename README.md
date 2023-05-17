@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejszelag&langs_count=8)](https://github.com/andrzejszelag/github-readme-stats)
 ## Andrzej Szelag
 [<img align="left" alt="github" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AndrzejSzelag?tab=repositories)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrzej-szel%C4%85g-91460b257)
@@ -28,4 +27,4 @@ Programming languages, frameworks and tools which I am still improving:
 
 ### My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrzejszelag&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejszelag&layout=compact)](https://github.com/andrzejszelag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejszelag&langs_count=8)](https://github.com/andrzejszelag/github-readme-stats)
