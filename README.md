@@ -4,7 +4,7 @@
 
 ### About me
 
-I am a begginer Java Software Developer. Since about three years I have been developing web-based applications using latest technologies such as: Java, Spring Boot, Maven, Hibernate and Oracle Database.
+I am a begginer Java Software Developer. Since about three years I have been developing web-based applications using latest technologies such as: Java, Spring Boot, Maven, JPA/Hibernate and Oracle Database.
 
 I completed:
 * 💎 **CS50's Web Programming with Python and JavaScript** course at **Harvard University**.
