@@ -20,9 +20,4 @@ Youtube Channel: [https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg](http
 
 Programming languages, frameworks and tools which I am still improving:
 
-* **Java**
-* **Spring Boot**
-* **Hibernate**
-* **Maven** 
-* **Oracle Database** 
-* **Docker** and much more...
+<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
