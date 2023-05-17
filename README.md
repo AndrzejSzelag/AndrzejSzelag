@@ -23,4 +23,4 @@ Programming languages, frameworks and tools which I am still improving:
 <img align="left" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
 <img align="left" alt="oracledatabase" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 
-https://github-readme-stats.vercel.app/api?username={AndrzejSzelag}&theme=blue-green
+https://github-readme-stats.vercel.app/api?username={[AndrzejSzelag](https://github.com/AndrzejSzelag/AndrzejSzelag)}&theme=blue-green
