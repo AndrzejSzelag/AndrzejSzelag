@@ -13,7 +13,7 @@ I have always been interested in programming. For last 3 years I completed:
 * 💎 **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**.
 * 💎 **Spring Boot** course on **SoftwareSkill.pl** web platform.
 
-Currently, I am learning **Java Developer Training Program** on **SoftwareSkill.pl** web platform ([🔗](https://softwareskill.pl/program/java-developer)).
+Currently, I am learning **Java Developer Training Program** on **SoftwareSkill.pl** web platform ([🚀](https://softwareskill.pl/program/java-developer)).
 
 Learning and development are very important for me. ❤️
 
