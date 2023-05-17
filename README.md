@@ -18,6 +18,6 @@ Learning and development are very important for me. ❤️<br><br>
 Programming languages, frameworks and tools which I am still improving:
 
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="left" alt="springboot" src="https://img.shields.io/badge/springBoot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="springboot" src="https://img.shields.io/badgeSspring Boot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
 <img align="left" alt="oracledatabase" src="https://img.shields.io/badge/Oracle Database-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
