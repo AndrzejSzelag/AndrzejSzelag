@@ -7,7 +7,6 @@ Youtube Channel: [https://www.youtube.com/channel/UCdXprXor_RWV26GMvP7VaPg](http
 <szelagandrzej@gmail.com>
 
 
-
 ### About me
 Hi, My name is **Andrzej**. I come from Poland. 
 
