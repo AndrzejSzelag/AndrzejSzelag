@@ -1,9 +1,5 @@
 ## Andrzej Szelag<br>
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/andrzej szelag-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrzej-szel%C4%85g-91460b257)
-
-### Connect with me<br><br>
-<szelagandrzej@gmail.com>
-
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/andrzej szelag-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrzej-szel%C4%85g-91460b257
 
 ### About me<br>
 Hi, My name is **Andrzej**. I come from Poland. 
