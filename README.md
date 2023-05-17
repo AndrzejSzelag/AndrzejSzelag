@@ -7,7 +7,7 @@
 
 ### About me
 
-I am a begginer Java Software Developer. Since about three years I have been developing web-based applications using latest technologies such as: __Java__/__JavaEE__, __Spring__/__Spring Boot__, __Maven__, __JPA__/__Hibernate__, __Oracle Database__, __Python__,__JavaScript__ and __SQLLite__.
+I am a begginer Java Software Developer. Since about three years I have been developing web-based applications using latest technologies such as: __Java__/__JavaEE__, __Spring__/__Spring Boot__, __Maven__, __JPA__/__Hibernate__, __Oracle Database__, __Python__,__JavaScript__ and __SQLite__.
 
 I completed:
 * 💎 **CS50's Web Programming with Python and JavaScript** course at **Harvard University**.
