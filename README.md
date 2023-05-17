@@ -1,4 +1,6 @@
 ## Andrzej Szelag
+[<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://www.linkedin.com/in/andrzej-szel%C4%85g-91460b257)
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/Andrzej Szelag-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrzej-szel%C4%85g-91460b257)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/szelagandrzej@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:szelagandrzej@gmail.com)
 <br><br>
