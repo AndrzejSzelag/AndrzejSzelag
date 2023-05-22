@@ -7,7 +7,7 @@
 ### About me
 I am a beginner __Java Software Developer__ which passionate about __Clean Code__ and __SOLID principles__. ❤️
 
-Since about 3-4 years I have been developing web-based applications using latest technologies such as: __Java__/__Java EE__, __Spring__/__Spring Boot__, __Maven__, __JPA__/__Hibernate__, __Oracle Database__, __Python__ and __JavaScript__. In this time I completed:
+Since about 3 years I have been developing web-based applications using latest technologies such as: __Java__/__Java EE__, __Spring__/__Spring Boot__, __Maven__, __JPA__/__Hibernate__, __Oracle Database__, __Python__ and __JavaScript__. In this time I completed:
 * 💎 **CS50's Web Programming with Python and JavaScript** course at **Harvard University**.
 * 💎 **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**.
 * 💎 **Spring Boot** and 💎 **Java Developer Training Program** courses on **SoftwareSkill.pl** web platform ([link](https://softwareskill.pl/program/java-developer)).
