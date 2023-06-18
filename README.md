@@ -12,7 +12,7 @@ Since about 3 years I have been developing web-based applications using latest t
 * 💎 **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology** /📅2021-2022/.
 * 💎 **Spring Boot** and 💎 **Java Developer Training Program** courses on the **SoftwareSkill** ([link](https://softwareskill.pl/program/java-developer)) /📅 2022-2023/.
 
-Learning and development are very important for me. ❤️<br><br>
+IT, learning and development are very important for me. ❤️<br><br>
 
 ### Stack I work with
 Programming languages, frameworks and tools which I am still improving:
