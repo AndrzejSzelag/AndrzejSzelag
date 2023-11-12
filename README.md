@@ -14,7 +14,7 @@ I completed:
 *  **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology** /2021-2022/.
 *  **Spring Boot** and **Java Developer Training Program** courses on the **SoftwareSkill** /2022-2023/.
 
-IT, learning and development are very important for me. ❤️<br><br>
+IT, learning and development are very important for me.<br><br>
 
 ### Stack I work with
 Programming languages, frameworks and tools which I am still improving:
