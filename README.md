@@ -12,7 +12,7 @@ For 3 years I have been developing web-based applications using latest technolog
 I completed:
 *  **CS50's Web Programming with Python and JavaScript** course at **Harvard University** /📅 2020/.
 *  **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology** /📅2021-2022/.
-*  **Spring Boot** and 💎 **Java Developer Training Program** courses on the **SoftwareSkill** /📅 2022-2023/.
+*  **Spring Boot** and **Java Developer Training Program** courses on the **SoftwareSkill** /📅 2022-2023/.
 
 IT, learning and development are very important for me. ❤️<br><br>
 
