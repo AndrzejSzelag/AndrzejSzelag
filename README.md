@@ -10,9 +10,9 @@ I am a __Java Developer__ which passionate about __Java__, __Spring Framework Ec
 For 4 years I have been developing web-based applications using latest technologies such as: __Java__/__Java EE__, __Spring__/__Spring Boot__, __Maven__, __JPA__/__Hibernate__, __Oracle Database__, __Python__ and __JavaScript__. 
 
 I completed:
-*  **CS50's Web Programming with Python and JavaScript** course at **Harvard University** /completed in 2020/.
-*  **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology** /completed in 2022/.
-*  **Spring Boot** and **Java Developer Training Program** courses on the **SoftwareSkill** /completed in 2023/.
+*  **CS50's Web Programming with Python and JavaScript** course at **Harvard University**
+*  **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**
+*  **Spring Boot** and **Java Developer Training Program** courses on the **SoftwareSkill**
 
 IT, learning and development are very important for me.<br><br>
 
