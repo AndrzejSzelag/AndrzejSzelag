@@ -21,4 +21,4 @@ Programming languages, frameworks and tools which I am still improving:
 [<img align="left" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />](https://hibernate.org/)
 [<img align="left" alt="oracledatabase" src="https://img.shields.io/badge/Oracle Database-F80000?style=for-the-badge&logo=oracle&logoColor=black" />](https://www.oracle.com/pl/database/) and more...
 
-<br><br>IT, learning and development are very important for me.
+<br><br>### IT, learning and development are very important for me.
