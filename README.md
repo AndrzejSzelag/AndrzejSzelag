@@ -13,7 +13,7 @@ For 4+ years I have been developing web-based applications using mainly Java. Du
 *  **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**
 *  **CS50's Web Programming with Python and JavaScript** course at **Harvard University**<br><br>
 
-IT, learning and development are very important for me.<br /><br />
+IT, learning and development are very important for me.<br />
 
 ### Stack I work with
 Programming languages, frameworks and tools which I am still improving:
