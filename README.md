@@ -7,7 +7,7 @@
 ### About me
 I am a __Java Developer__ which passionate about __Java 8+__, __Spring Framework Ecosystem__, __Clean Code__ and __SOLID design principles__.
 
-For 4+ years I have been developing web-based applications using **Java 8+**, **Python** and **JavaScript**. During this period I have completed:
+For 4+ years I have been developing web-based applications using **Java 8+**, **Python** and **JavaScript**. During this period, I have completed:
 *  **Program Java Developer** course on the **SoftwareSkill**
 *  **Spring Boot** course on the **SoftwareSkill**
 *  **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**
