@@ -5,8 +5,7 @@
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:szelagandrzej@gmail.com)<br><br>
 
 ### About me
-For 4+ years I have been developing web-based applications with using **Java/Java EE**, **Python** and **JavaScript**. Currently I am a Java Developer which passionate about **Java**, **Spring Framework Ecosystem**, **Clean Code** and **SOLID design principles**. 
-I have completed:
+For 4+ years I have been developing web-based applications with using **Java/Java EE**, **Python** and **JavaScript**. Currently I am a Java Developer which passionate about **Java**, **Spring Framework Ecosystem**, **Clean Code** and **SOLID design principles**.<br><br>I have completed:
 *  **Program Java Developer** (**SoftwareSkill**)
 *  **Spring Boot** (**SoftwareSkill**)
 *  **Modern Business Applications Java/Jakarta EE** (**Lodz University of Technology**)
