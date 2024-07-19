@@ -6,10 +6,10 @@
 
 ### About me
 For 4+ years I have been developing web-based applications with using **Java/Java EE**, **Python** and **JavaScript**. Currently I am a Java Developer which passionate about **Java**, **Spring Framework Ecosystem**, **Clean Code** and **SOLID design principles**. I have completed:
-*  **Program Java Developer** course on the **SoftwareSkill**
-*  **Spring Boot** course on the **SoftwareSkill**
-*  **Modern Business Applications Java/Jakarta EE** postgraduate studies at **Lodz University of Technology**
-*  **CS50's Web Programming with Python and JavaScript** course at **Harvard University**<br><br>
+*  **Program Java Developer** (**SoftwareSkill**)
+*  **Spring Boot** (**SoftwareSkill**)
+*  **Modern Business Applications Java/Jakarta EE** (**Lodz University of Technology**)
+*  **CS50's Web Programming with Python and JavaScript** (**Harvard University**)<br><br>
 
 IT, learning and development are very important for me.<br />
 
