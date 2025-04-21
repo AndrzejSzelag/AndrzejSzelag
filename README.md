@@ -9,13 +9,6 @@
   <img src="https://img.shields.io/badge/Keycloak-0071C1?style=flat-square&logo=keycloak&logoColor=white"/>
 </p>
 
-
-
-
-<h1 align="center">Hi 👋, I'm Andrzej Szeląg</h1>
-
-<h3 align="center">Java Developer | Spring Enthusiast | Open Source Contributor</h3>
-
 <p align="center">
   <a href="https://github.com/AndrzejSzelag?tab=repositories">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
