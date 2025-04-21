@@ -50,6 +50,19 @@
 
 ---
 
+### 📌 Pinned Projects
+
+- 🔐 [Keycloak JWT Validator](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)  
+  Spring Boot + React app to validate and decode JWT tokens issued by Keycloak.
+
+- ☁️ [Cloud Image Storage Service](https://github.com/AndrzejSzelag/cloud-image-storage)  
+  RESTful microservice with AWS S3 integration and image resizing.
+
+- 🧠 [Personal AI Notes App](https://github.com/AndrzejSzelag/ai-notes-app)  
+  Note-taking fullstack app enhanced with GPT-style suggestions and text search.
+
+
+
 ### 💬 Motto
 > *"First make it work, then make it right, then make it fast."*  
 > — Kent Beck
