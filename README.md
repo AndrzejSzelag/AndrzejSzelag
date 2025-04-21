@@ -63,8 +63,14 @@ A fullstack RESTful API application to decode and validate JWT tokens issued by 
 <img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=onedark" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrzejSzelag&theme=onedark" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSzelag&layout=compact&theme=onedark" width="40%" />
--->
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=ayu-mirage" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrzejSzelag&theme=ayu-mirage" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSzelag&layout=compact&theme=ayu-mirage" width="40%" />
+
+-->
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndrzejSzelag&theme=nord" alt="GitHub Profile Trophy" />
+</a>
