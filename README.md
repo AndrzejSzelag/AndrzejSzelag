@@ -34,6 +34,46 @@
 
 ---
 
+### 📌 Pinned Projects
+
+---
+
+#### 🔐 **Keycloak JWT Validator**
+[🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
+
+🛠️ **Tech Stack**: React • Spring Boot • Spring Security • OAuth2 • Keycloak • JWT  
+📄 **Description**: A fullstack application to decode and validate JWT tokens issued by Keycloak.  
+✅ Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
+
+---
+
+#### 🗂️ **FMS – File Management System**
+[🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms-file-management-system)
+
+🛠️ **Tech Stack**: Spring Boot • PostgreSQL • REST API • File Upload  
+📄 **Description**: A backend system for uploading, organizing, tagging, and downloading files with version control.  
+🔐 Includes user access, metadata support, and secure API endpoints.
+
+---
+
+#### 🏋️ **GYM – Workout Tracker App**
+[🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym-training-app)
+
+🛠️ **Tech Stack**: Spring Boot • Spring Data JPA • REST API  
+📄 **Description**: Gym management and workout tracking backend service.  
+👥 Manages users, workout plans, schedules, and progress tracking.
+
+---
+
+#### 🔐 **OAuth2 GitHub SSL Login**
+[🔗 GitHub Repo](https://github.com/AndrzejSzelag/oauth2githubssl)
+
+🛠️ **Tech Stack**: Spring Boot • Spring Security • OAuth2 • GitHub • HTTPS/SSL  
+📄 **Description**: Demonstrates GitHub OAuth2 login integration over HTTPS.  
+📚 A secure and minimal implementation for learning OAuth2 authorization flows.
+
+---
+
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
