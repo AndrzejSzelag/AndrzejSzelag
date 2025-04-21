@@ -48,3 +48,7 @@ A fullstack RESTful API application to decode and validate JWT tokens issued by 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSzelag&layout=compact&theme=radical" width="40%" />
 </p>
 <br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=dark" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrzejSzelag&theme=dark" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSzelag&layout=compact&theme=dark" width="40%" />
