@@ -21,9 +21,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@andrzej-szelag/videos">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@andrzej-szelag/videos">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 </a>
 </p>
