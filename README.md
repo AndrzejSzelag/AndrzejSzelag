@@ -37,13 +37,21 @@
 ### 📌 Pinned Projects
 
 - 🔐 [Keycloak JWT Validator](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)  
-  Spring Boot + React app to validate and decode JWT tokens issued by Keycloak.
+  A fullstack React + Spring Boot app to decode and validate JWT tokens issued by Keycloak.  
+  Uses Spring Security OAuth2 Resource Server and Nimbus JWT decoder.
 
-- 🧠 [GYM](https://github.com/AndrzejSzelag/gym)  
-  Spring Boot + Hibernate + PostgreSQL app to collect information about the members of a gym.
-  
-- ☁️ [FMS](https://github.com/AndrzejSzelag/fms)  
-  Java EE + Oracle Database + Payara Server IT System for Managing Control System Faults on the Mining Railways.
+- 🗂️ [FMS - File Management System](https://github.com/AndrzejSzelag/fms-file-management-system)  
+  Spring Boot + PostgreSQL system for uploading, organizing, and downloading files.  
+  Supports REST API access, metadata tagging and file versioning.
+
+- 🏋️ [GYM - Workout Tracker App](https://github.com/AndrzejSzelag/gym-training-app)  
+  A Java-based gym management and training tracker system with REST API and Spring Data JPA.  
+  Handles users, workout plans, schedules, and progress stats.
+
+- 🔐 [OAuth2 GitHub SSL Login](https://github.com/AndrzejSzelag/oauth2githubssl)  
+  Demonstrates GitHub OAuth2 login over HTTPS in a secured Spring Boot backend.  
+  Great for learning secure client integration with OAuth2 providers.
+
 
 ---
 
