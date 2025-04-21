@@ -41,7 +41,7 @@
 [<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
 [<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
 
-A fullstack application to decode and validate JWT tokens issued by Keycloak.  
+A fullstack RESTful API application to decode and validate JWT tokens issued by Keycloak.  
 Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
 
 
