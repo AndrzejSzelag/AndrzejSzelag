@@ -33,7 +33,7 @@
 
 
 ### Projects
-<hr />
+
 #### 1. **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
 
 A fullstack RESTful API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
