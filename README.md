@@ -24,7 +24,6 @@
   </a>
 </p>
 
----
 
 ### 🧠 About Me
 - 🔭 Currently working as a **Java Developer**
