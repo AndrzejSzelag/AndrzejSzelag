@@ -32,9 +32,9 @@
 - Passionate about writing clean, readable, and maintainable code
 - Graduate of multiple professional programs (SoftwareSkill, HackerU, Harvard CS50)
 
----
 
 ### Projects
+---
 
 #### **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
 
@@ -46,10 +46,9 @@ A fullstack RESTful API application to decode and validate JWT tokens issued by 
 [<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
 [<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
 
----
 
 ### GitHub Stats
-
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrzejSzelag&theme=radical" width="48%" />
