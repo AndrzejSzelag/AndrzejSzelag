@@ -31,11 +31,11 @@
 - 🔐 [Keycloak JWT Validator](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)  
   Spring Boot + React app to validate and decode JWT tokens issued by Keycloak.
 
-- ☁️ [FMS](https://github.com/AndrzejSzelag/fms)  
-  Java EE + Oracle Database + Payara Server IT System for Managing Control System Faults on the Mining Railways.
-
 - 🧠 [GYM](https://github.com/AndrzejSzelag/gym)  
   Spring Boot + Hibernate + PostgreSQL app to collect information about the members of a gym.
+  
+- ☁️ [FMS](https://github.com/AndrzejSzelag/fms)  
+  Java EE + Oracle Database + Payara Server IT System for Managing Control System Faults on the Mining Railways.
 
 ---
 
