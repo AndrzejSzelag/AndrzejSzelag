@@ -34,7 +34,7 @@
 
 ---
 
-### 📦 Projects
+### Projects
 
 #### **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
 
@@ -48,7 +48,7 @@ A fullstack RESTful API application to decode and validate JWT tokens issued by 
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=radical" width="48%" />
