@@ -25,7 +25,7 @@
 - Graduate of multiple professional programs (Harvard University, Lodz University of Technology, HackerU, SoftwareSkill)
 <br /><br />
 
-### Projects
+### Last Projects
 
 #### 1. **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
 
