@@ -26,7 +26,6 @@
 
 
 ### About Me
----
 - Currently working as a **Java Developer**
 - Constantly improving my skills in **Spring**, **Java 21**, and **Clean Architecture**
 - Passionate about writing clean, readable, and maintainable code
@@ -34,12 +33,9 @@
 
 
 ### Projects
----
 
 #### **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
-
 A fullstack RESTful API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
-
 [<img alt="RESTful API" src="https://img.shields.io/badge/RESTful-API-009688.svg?logo=openapi-initiative">](https://restfulapi.net/)
 [<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
 [<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.4.4-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
@@ -48,7 +44,6 @@ A fullstack RESTful API application to decode and validate JWT tokens issued by 
 
 
 ### GitHub Stats
----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrzejSzelag&theme=radical" width="48%" />
