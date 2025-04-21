@@ -2,10 +2,10 @@
 <h3 align="center">Java Developer | Backend Architect | Tech Passionate</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-21.0.5-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-8.0.5-47A248.svg?logo=mongodb">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Keycloak-0071C1?style=flat-square&logo=keycloak&logoColor=white"/>
 </p>
