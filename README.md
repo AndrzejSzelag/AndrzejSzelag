@@ -29,7 +29,7 @@
 - Currently working as a **Java Developer**
 - Constantly improving my skills in **Spring**, **Java 21**, and **Clean Architecture**
 - Passionate about writing clean, readable, and maintainable code
-- Graduate of multiple professional programs (Harvard CS50, Lodz University of Technology, SoftwareSkill, HackerU)
+- Graduate of multiple professional programs (Harvard University, Lodz University of Technology, HackerU, SoftwareSkill)
 <br /><br />
 
 ### Projects
