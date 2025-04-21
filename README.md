@@ -24,9 +24,9 @@
   </a>
 </p>
 
----
 
 ### About Me
+---
 - Currently working as a **Java Developer**
 - Constantly improving my skills in **Spring**, **Java 21**, and **Clean Architecture**
 - Passionate about writing clean, readable, and maintainable code
