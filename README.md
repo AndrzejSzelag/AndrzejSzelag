@@ -49,6 +49,4 @@ A fullstack RESTful API application to decode and validate JWT tokens issued by 
 </p>
 <br /><br />
 
-<a href="https://github.com/DenverCoder1/github-readme-activity-graph">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AndrzejSzelag&theme=dracula" />
-</a>
+<img src="https://github-readme-contributions-calendar.vercel.app/?username=AndrzejSzelag&theme=dark" alt="GitHub Contributions Calendar" />
