@@ -34,9 +34,7 @@
 
 ### 📦 Projects
 
-#### 🔐 **Keycloak JWT Validator** 
-
-[🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
+#### 🔐 **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
 [<img alt="RESTful API" src="https://img.shields.io/badge/RESTful-API-009688.svg?logo=openapi-initiative">](https://restfulapi.net/)
 [<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
 [<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.4.4-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
