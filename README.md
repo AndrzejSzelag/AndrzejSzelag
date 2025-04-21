@@ -32,7 +32,7 @@
 - 🎓 Graduate of multiple professional programs (SoftwareSkill, HackerU, Harvard CS50)
 
 
-### 📌 Pinned Projects
+### 📦 Projects
 
 #### 🔐 **Keycloak JWT Validator**
 [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
