@@ -30,7 +30,7 @@
 - Constantly improving my skills in **Spring**, **Java 21**, and **Clean Architecture**
 - Passionate about writing clean, readable, and maintainable code
 - Graduate of multiple professional programs (SoftwareSkill, HackerU, Harvard CS50)
-
+<br /><br />
 
 ### Projects
 
@@ -43,7 +43,7 @@ A fullstack RESTful API application to decode and validate JWT tokens issued by 
 [<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.4.4-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
 [<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
 [<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
-
+<br /><br />
 
 ### GitHub Stats
 <p align="center">
@@ -54,3 +54,4 @@ A fullstack RESTful API application to decode and validate JWT tokens issued by 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSzelag&layout=compact&theme=radical" width="40%" />
 </p>
+<br /><br />
