@@ -31,11 +31,8 @@
 - 👨‍💻 Passionate about writing clean, readable, and maintainable code
 - 🎓 Graduate of multiple professional programs (SoftwareSkill, HackerU, Harvard CS50)
 
----
 
 ### 📌 Pinned Projects
-
----
 
 #### 🔐 **Keycloak JWT Validator**
 [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
@@ -44,7 +41,6 @@
 📄 **Description**: A fullstack application to decode and validate JWT tokens issued by Keycloak.  
 ✅ Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
 
----
 
 #### 🗂️ **FMS – File Management System**
 [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms-file-management-system)
@@ -53,7 +49,6 @@
 📄 **Description**: A backend system for uploading, organizing, tagging, and downloading files with version control.  
 🔐 Includes user access, metadata support, and secure API endpoints.
 
----
 
 #### 🏋️ **GYM – Workout Tracker App**
 [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym-training-app)
@@ -62,7 +57,6 @@
 📄 **Description**: Gym management and workout tracking backend service.  
 👥 Manages users, workout plans, schedules, and progress tracking.
 
----
 
 #### 🔐 **OAuth2 GitHub SSL Login**
 [🔗 GitHub Repo](https://github.com/AndrzejSzelag/oauth2githubssl)
