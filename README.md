@@ -26,6 +26,19 @@
 
 ---
 
+### 📌 Pinned Projects
+
+- 🔐 [Keycloak JWT Validator](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)  
+  Spring Boot + React app to validate and decode JWT tokens issued by Keycloak.
+
+- ☁️ [FMS](https://github.com/AndrzejSzelag/fms)  
+  Java EE + Oracle Database + Payara Server IT System for Managing Control System Faults on the Mining Railways.
+
+- 🧠 [GYM](https://github.com/AndrzejSzelag/gym)  
+  Spring Boot + Hibernate + PostgreSQL app to collect information about the members of a gym.
+
+---
+
 ### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
@@ -47,22 +60,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSzelag&layout=compact&theme=radical" width="40%" />
 </p>
-
----
-
-### 📌 Pinned Projects
-
-- 🔐 [Keycloak JWT Validator](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)  
-  Spring Boot + React app to validate and decode JWT tokens issued by Keycloak.
-
-- ☁️ [Cloud Image Storage Service](https://github.com/AndrzejSzelag/cloud-image-storage)  
-  RESTful microservice with AWS S3 integration and image resizing.
-
-- 🧠 [Personal AI Notes App](https://github.com/AndrzejSzelag/ai-notes-app)  
-  Note-taking fullstack app enhanced with GPT-style suggestions and text search.
-
-
-
-### 💬 Motto
-> *"First make it work, then make it right, then make it fast."*  
-> — Kent Beck
