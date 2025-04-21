@@ -49,3 +49,7 @@ A fullstack RESTful API application to decode and validate JWT tokens issued by 
 </p>
 <br /><br />
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndrzejSzelag" alt="GitHub Profile Trophy" />
+</a>
+
