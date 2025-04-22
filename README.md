@@ -40,7 +40,7 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 [<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
 [<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
 
-#### 2. **GYM**
+#### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
 
 **MVC (Model View Controller)** architecture-based business web application built using **Spring Boot**, **Hibernate ORM**, and **PostgreSQL** to collect gym membership information, using **Thymeleaf** and implementing the **Builder* creational design pattern.
 
