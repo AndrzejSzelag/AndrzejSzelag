@@ -22,7 +22,7 @@
 
 ### About Me
 - Currently working as a **Java Developer**.
-- Constantly improving my skills in **Java 21** and **Clean Architecture** (including **SOLID** principles), with a particular interest in **Spring Security** within the **Spring ecosystem**.
+- Continuously enhancing my expertise in **Java**, **Clean Architecture** (including **SOLID**), and **Spring**, particularly **Spring Security**.
 - Growing interest in **DevOps** practices (CI/CD, automation, cloud solutions).
 - Exploring the potential of **Artificial Intelligence** in software development.
 - Passionate about writing clean, readable, and maintainable code.
