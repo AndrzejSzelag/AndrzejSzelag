@@ -22,7 +22,7 @@
 
 ### About Me
 - Currently working as a **Java Developer**.
-- Continuously enhancing my expertise in **Java**, **Clean Architecture** (including **SOLID** principles), and **Spring** (with a particular focus on **Spring Security**).
+- Continuously enhancing my expertise in **Spring** (with a particular focus on **Spring Security**), and **Clean Architecture** (including **SOLID** principles).
 - Growing interest in **DevOps** practices (CI/CD, automation, cloud solutions).
 - Exploring the potential of **Artificial Intelligence** in software development.
 - A graduate of multiple professional programmes (**Harvard University**, **Lodz University of Technology**). I'm also a certified Microsoft Administrator and Engineer in Security.
