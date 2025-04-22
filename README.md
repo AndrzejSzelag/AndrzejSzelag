@@ -38,7 +38,7 @@
 
 A fullstack RESTful API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
 
-[<img alt="RESTful API" src="https://img.shields.io/badge/RESTful-API-009688.svg?logo=openapi-initiative">](https://restfulapi.net/)
+[<img alt="REST API" src="https://img.shields.io/badge/REST-API-009688.svg?logo=openapi-initiative">](https://restfulapi.net/)
 [<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
 [<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.4.4-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
 [<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
