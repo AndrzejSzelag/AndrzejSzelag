@@ -43,7 +43,7 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 
 #### 2. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
 
-A Java EE enterprise application for managing railway traffic control (RTC) system failures on mining railways, built based on the MVC architecture and implementing the Facade pattern for simplified subsystem access.
+IT System for Managing Railway Traffic Control (RTC) System Failures on Mining Railways: A Java EE enterprise application with MVC and Facade for simplified subsystem access, dedicated to specific RTC failures in mining environments.
 
 [<img alt="Java EE" src="https://img.shields.io/badge/Java EE-8.0.1-007396.svg?logo=java">](https://www.oracle.com/java/technologies/java-ee-glance.html)
 [<img alt="Maven" src="https://img.shields.io/badge/Maven-3.8.6-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
