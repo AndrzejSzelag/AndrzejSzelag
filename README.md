@@ -41,7 +41,19 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 [<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
 [<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
 
-#### 2. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
+####2. **GYM**
+
+**MVC (Model View Controller)** architecture-based business web application built using **Spring Boot**, **Hibernate ORM**, and **PostgreSQL** to collect gym membership information, using **Thymeleaf** and implementing the **Builder* creational design pattern.
+
+[<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.3.2-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
+[<img alt="Maven" src="https://img.shields.io/badge/Maven-3.9.8-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
+[<img alt="Hibernate ORM" src="https://img.shields.io/badge/Hibernate ORM-6.6.0.Final-59666C.svg?logo=hibernate">](https://hibernate.org/)
+[<img alt="Lombok" src="https://img.shields.io/badge/Lombok-1.18.34-DA525D.svg?logo=java">](https://projectlombok.org/)
+[<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-16.3-4169E1?logo=postgresql&logoColor=white"/>](https://www.postgresql.org/)
+[<img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-3.1.1-005F0F.svg?logo=thymeleaf">](https://www.thymeleaf.org/)
+
+
+#### 3. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
 
 IT System for Managing Railway Traffic Control (RTC) System Failures on Mining Railways: A Java EE enterprise application with MVC and Facade for simplified subsystem access, dedicated to specific RTC failures in mining environments.
 
