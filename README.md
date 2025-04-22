@@ -32,17 +32,15 @@
 
 #### 1. **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
 
-A fullstack REST API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
-
 [<img alt="REST API" src="https://img.shields.io/badge/REST-API-009688.svg?logo=openapi-initiative">](https://restfulapi.net/)
 [<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.4.4-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
 [<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
 [<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
 [<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
 
-#### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
+A fullstack REST API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
 
-A Spring Boot-based MVC web application using Hibernate ORM and PostgreSQL for managing gym member data, implementing the Builder creational design pattern for flexible object construction.
+#### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
 
 [<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.3.2-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
 [<img alt="Maven" src="https://img.shields.io/badge/Maven-3.9.8-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
@@ -51,10 +49,9 @@ A Spring Boot-based MVC web application using Hibernate ORM and PostgreSQL for m
 [<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-16.3-4169E1?logo=postgresql&logoColor=white"/>](https://www.postgresql.org/)
 [<img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-3.1.1-005F0F.svg?logo=thymeleaf">](https://www.thymeleaf.org/)
 
+A Spring Boot-based MVC web application using Hibernate ORM and PostgreSQL for managing gym member data, implementing the Builder creational design pattern for flexible object construction.
 
 #### 3. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
-
-IT System for Managing Railway Traffic Control (RTC) System Failures on Mining Railways is a Java EE enterprise application with an MVC architecture and Facade pattern for simplified subsystem access, specifically designed to handle RTC failures in mining environments.
 
 [<img alt="Java EE" src="https://img.shields.io/badge/Java EE-8.0.1-007396.svg?logo=java">](https://www.oracle.com/java/technologies/java-ee-glance.html)
 [<img alt="Maven" src="https://img.shields.io/badge/Maven-3.8.6-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
@@ -62,6 +59,8 @@ IT System for Managing Railway Traffic Control (RTC) System Failures on Mining R
 [<img alt="Boot Faces" src="https://img.shields.io/badge/Boot Faces-1.5.0-7952B3.svg?logo=bootstrap">](https://www.bootsfaces.net/index.jsf)
 [<img alt="Oracle Database" src="https://img.shields.io/badge/Oracle Database-21c Express Edition-F80000.svg?logo=oracle"/>](https://www.oracle.com/database/technologies/xe-downloads.html)
 [<img alt="Payara Server" src="https://img.shields.io/badge/Payara Server-5.2021.10-FF7300.svg?logo=payara">](https://www.payara.fish/)
+
+IT System for Managing Railway Traffic Control (RTC) System Failures on Mining Railways is a Java EE enterprise application with an MVC architecture and Facade pattern for simplified subsystem access, specifically designed to handle RTC failures in mining environments.
 <br /><br />
 
 ### GitHub Stats
