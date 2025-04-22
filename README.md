@@ -43,7 +43,7 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 
 #### 2. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
 
-Korporacyjna aplikacja Java EE do zarządzania usterkami kolejowymi w środowisku górniczym, zbudowana w architekturze MVC. Implementuje wzorzec Fasady dla uproszczonego dostępu do podsystemów. Wykorzystuje JPA do persystencji danych, JTA do zarządzania transakcjami oraz EJB do logiki biznesowej.
+A Java EE enterprise application for railway fault management in mining environments, built with MVC architecture. Implements Facade pattern for simplified subsystem access.
 
 [<img alt="Java EE" src="https://img.shields.io/badge/Java EE-8.0.1-007396.svg?logo=java">](https://www.oracle.com/java/technologies/java-ee-glance.html)
 [<img alt="Maven" src="https://img.shields.io/badge/Maven-3.8.6-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
