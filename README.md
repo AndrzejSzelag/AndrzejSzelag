@@ -66,8 +66,8 @@ IT System for Managing Railway Traffic Control (RTC) System Failures on Mining R
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=ayu-mirage" width="48%" />
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrzejSzelag&theme=ayu-mirage" width="48%" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=ayu-mirage" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrzejSzelag&theme=ayu-mirage" width="48%" />-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSzelag&layout=compact&theme=ayu-mirage" width="40%" />
 
 <!--
