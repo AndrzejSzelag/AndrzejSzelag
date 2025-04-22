@@ -26,7 +26,7 @@
 - Growing interest in **DevOps** practices (CI/CD, automation, cloud solutions).
 - Exploring the potential of **Artificial Intelligence** in software development.
 - Passionate about writing clean, readable, and maintainable code.
-- A graduate of multiple professional programs (**Harvard University**, **Lodz University of Technology**).
+- A graduate of multiple professional programs (**Harvard University**, **Lodz University of Technology**). Also a certified Microsoft Administrator and Engineer in Security.
 <br /><br />
 
 ### Last Projects
