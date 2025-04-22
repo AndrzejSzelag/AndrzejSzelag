@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Keycloak-0071C1?style=flat-square&logo=keycloak&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful%20API-available-brightgreen?style=flat-square&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful%20API-brightgreen?style=flat-square&logo=swagger&logoColor=white"/>
 
 
 </p>
