@@ -1,4 +1,10 @@
 <h1 align="center">Hi, I'm Andrzej</h1>
+<p align="center">
+  <a href="https://github.com/AndrzejSzelag?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/andrzejszelag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:szelagandrzej@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@andrzej-szelag/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+</p>
 <h3 align="center">Java Developer | Backend Architect | Tech Passionate</h3>
 
 <p align="center">
@@ -12,13 +18,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST-API-009688?style=flat-square&logo=swagger&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/AndrzejSzelag?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/andrzejszelag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:szelagandrzej@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@andrzej-szelag/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </p>
 
 ### About Me
