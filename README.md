@@ -21,7 +21,6 @@
   <a href="https://www.youtube.com/@andrzej-szelag/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </p>
 
-
 ### About Me
 - Currently working as a **Java Developer**
 - Constantly improving my skills in **Spring**, **Java 21**, and **Clean Architecture**
@@ -63,12 +62,9 @@ IT System for Managing Railway Traffic Control (RTC) System Failures on Mining R
 [<img alt="Boot Faces" src="https://img.shields.io/badge/Boot Faces-1.5.0-7952B3.svg?logo=bootstrap">](https://www.bootsfaces.net/index.jsf)
 [<img alt="Oracle Database" src="https://img.shields.io/badge/Oracle Database-21c Express Edition-F80000.svg?logo=oracle"/>](https://www.oracle.com/database/technologies/xe-downloads.html)
 [<img alt="Payara Server" src="https://img.shields.io/badge/Payara Server-5.2021.10-FF7300.svg?logo=payara">](https://www.payara.fish/)
-
-
 <br /><br />
 
 ### GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=ayu-mirage" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrzejSzelag&theme=ayu-mirage" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSzelag&layout=compact&theme=ayu-mirage" width="40%" />
