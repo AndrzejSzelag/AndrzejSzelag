@@ -42,7 +42,7 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 
 #### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
 
-**MVC (Model View Controller)** architecture-based business web application built using **Spring Boot**, **Hibernate ORM**, and **PostgreSQL** to collect gym membership information, using **Thymeleaf** and implementing the **Builder* creational design pattern.
+A Spring Boot-based MVC web application using Hibernate ORM and PostgreSQL for managing gym member data, implementing the Builder creational design pattern for flexible object construction.
 
 [<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.3.2-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
 [<img alt="Maven" src="https://img.shields.io/badge/Maven-3.9.8-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
@@ -54,7 +54,7 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 
 #### 3. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
 
-IT System for Managing Railway Traffic Control (RTC) System Failures on Mining Railways: A Java EE enterprise application with MVC and Facade for simplified subsystem access, dedicated to specific RTC failures in mining environments.
+IT System for Managing Railway Traffic Control (RTC) System Failures on Mining Railways is a Java EE enterprise application with an MVC architecture and Facade pattern for simplified subsystem access, specifically designed to handle RTC failures in mining environments.
 
 [<img alt="Java EE" src="https://img.shields.io/badge/Java EE-8.0.1-007396.svg?logo=java">](https://www.oracle.com/java/technologies/java-ee-glance.html)
 [<img alt="Maven" src="https://img.shields.io/badge/Maven-3.8.6-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
