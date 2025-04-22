@@ -60,7 +60,7 @@ A Spring Boot-based MVC web application using Hibernate ORM and PostgreSQL for m
 [<img alt="Oracle Database" src="https://img.shields.io/badge/Oracle Database-21c Express Edition-F80000.svg?logo=oracle"/>](https://www.oracle.com/database/technologies/xe-downloads.html)
 [<img alt="Payara Server" src="https://img.shields.io/badge/Payara Server-5.2021.10-FF7300.svg?logo=payara">](https://www.payara.fish/)
 
-IT System for Managing Railway Traffic Control (RTC) System Failures on Mining Railways is a Java EE enterprise application with an MVC architecture and Facade pattern for simplified subsystem access, specifically designed to handle RTC failures in mining environments.
+IT System for Managing Railway Traffic Control (RTC) System Failures on Mining Railways is a Java EE enterprise application with an MVC architecture and the Facade structural design pattern for simplified subsystem access, specifically designed to handle RTC failures in mining environments.
 <br /><br />
 
 ### GitHub Stats
