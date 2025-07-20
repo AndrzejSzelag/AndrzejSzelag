@@ -5,7 +5,7 @@
   <a href="mailto:szelagandrzej@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.youtube.com/@andrzej-szelag/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </p>
-<h3 align="center">Java Developer | Backend Architect | Tech Passionate</h3>
+<h3 align="center">Java Developer | Backend Architect | Tech Passionate | AI enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
