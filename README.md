@@ -25,7 +25,7 @@
 - Continuously enhancing my expertise in **Spring** (with a particular focus on **Spring Security**), and **Clean Architecture** (including **SOLID** principles).
 - Interest in **DevOps** practices (CI/CD, automation, cloud solutions), **Data Science** and **Machine Learning**.
 - Exploring the potential of **Artificial Intelligence** in software development.
-- A graduate of multiple professional programmes (**Harvard University**, **Lodz University of Technology**). I'm also a certified Microsoft Administrator and Engineer in Security.
+- I studied at **Harvard University** and **Lodz University of Technology**, and I hold Microsoft certifications as a Security Administrator and Engineer.
 <br /><br />
 
 ### Last Projects
