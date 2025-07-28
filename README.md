@@ -21,7 +21,7 @@
 </p>
 
 ### About Me
-- Currently working as a **Java Developer**.
+- Currently working as a **Java Developer** Freelancer.
 - Continuously enhancing my expertise in **Spring** (with a particular focus on **Spring Security**), and **Clean Architecture** (including **SOLID** principles).
 - Interest in **DevOps** practices (CI/CD, automation, cloud solutions), **Data Science** and **Machine Learning**.
 - Exploring the potential of **Artificial Intelligence** in software development.
