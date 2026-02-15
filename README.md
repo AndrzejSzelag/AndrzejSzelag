@@ -42,7 +42,7 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 
 #### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym) 
 
-[!IMPORTANT] During construction!
+#### [!IMPORTANT] During construction!
 
 [<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.3.2-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
 [<img alt="Maven" src="https://img.shields.io/badge/Maven-3.9.8-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
