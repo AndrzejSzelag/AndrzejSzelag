@@ -30,17 +30,7 @@
 
 ### Last Projects
 
-#### 1. **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
-
-[<img alt="REST API" src="https://img.shields.io/badge/REST-API-009688.svg?logo=openapi-initiative">](https://restfulapi.net/)
-[<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.4.4-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
-[<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
-[<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
-[<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
-
-A fullstack REST API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
-
-#### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
+#### 1. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
 
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-6DB33F?logo=springboot&logoColor=white)
@@ -51,6 +41,16 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 
 A Spring Boot-based MVC web application using Hibernate ORM and PostgreSQL for managing gym member data, implementing the Builder creational design pattern for flexible object construction.
+
+#### 2. **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
+
+[<img alt="REST API" src="https://img.shields.io/badge/REST-API-009688.svg?logo=openapi-initiative">](https://restfulapi.net/)
+[<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.4.4-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
+[<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
+[<img alt="Gradle" src="https://img.shields.io/badge/Gradle-8.13-02303A.svg?logo=gradle">](https://gradle.org/)
+[<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
+
+A fullstack REST API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
 
 #### 3. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
 
