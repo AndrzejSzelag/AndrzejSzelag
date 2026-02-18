@@ -40,7 +40,11 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.1-005F0F?logo=thymeleaf&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 
-A professional web application for managing gym memberships, built with Java 21 LTS, Spring Boot 3.4.2, and PostgreSQL 16.
+A professional web application for managing gym memberships, built with **Java 21 LTS**, **Spring Boot 3.4.2**,
+and **PostgreSQL 16**. The system emphasizes **security-first design**, **clean architecture**, and **high developer ergonomics**,
+combining RBAC authorization, HTTPS, automated infrastructure, and a full quality pipeline.
+
+---
 
 #### 2. **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
 
@@ -51,6 +55,8 @@ A professional web application for managing gym memberships, built with Java 21 
 [<img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-26.1.4-0071C1.svg?logo=keycloak">](https://www.keycloak.org/) 
 
 A fullstack REST API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
+
+---
 
 #### 3. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
 
