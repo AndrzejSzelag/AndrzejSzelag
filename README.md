@@ -49,10 +49,6 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 
-![SonarQube](https://img.shields.io/badge/SonarQube-Quality-4E9BCD?logo=sonarqube&logoColor=white)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-0.8.12-brightgreen)
-![Checkstyle](https://img.shields.io/badge/Checkstyle-3.5-blue)
-
 A Spring Boot-based MVC web application using Hibernate ORM and PostgreSQL for managing gym member data, implementing the Builder creational design pattern for flexible object construction.
 
 #### 3. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
