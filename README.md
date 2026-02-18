@@ -48,6 +48,7 @@ A fullstack REST API application to decode and validate JWT tokens issued by Key
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.1-005F0F?logo=thymeleaf&logoColor=white)
 
 A Spring Boot-based MVC web application using Hibernate ORM and PostgreSQL for managing gym member data, implementing the Builder creational design pattern for flexible object construction.
 
