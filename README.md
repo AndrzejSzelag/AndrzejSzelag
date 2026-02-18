@@ -40,14 +40,18 @@
 
 A fullstack REST API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using `NimbusJwtDecoder` for token signature validation.
 
-#### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym) => During construction!
+#### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
 
-[<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.3.2-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
-[<img alt="Maven" src="https://img.shields.io/badge/Maven-3.9.8-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
-[<img alt="Hibernate ORM" src="https://img.shields.io/badge/Hibernate ORM-6.6.0.Final-59666C.svg?logo=hibernate">](https://hibernate.org/)
-[<img alt="Lombok" src="https://img.shields.io/badge/Lombok-1.18.34-DA525D.svg?logo=java">](https://projectlombok.org/)
-[<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-16.3-4169E1?logo=postgresql&logoColor=white"/>](https://www.postgresql.org/)
-[<img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-3.1.1-005F0F.svg?logo=thymeleaf">](https://www.thymeleaf.org/)
+![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-6DB33F?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6.4-6DB33F?logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+
+![SonarQube](https://img.shields.io/badge/SonarQube-Quality-4E9BCD?logo=sonarqube&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-0.8.12-brightgreen)
+![Checkstyle](https://img.shields.io/badge/Checkstyle-3.5-blue)
 
 A Spring Boot-based MVC web application using Hibernate ORM and PostgreSQL for managing gym member data, implementing the Builder creational design pattern for flexible object construction.
 
