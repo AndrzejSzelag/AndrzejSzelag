@@ -31,11 +31,12 @@
 ### Last Projects
 
 #### 1. **Product Information Aggregator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/product-information-aggregator)
-Spring Boot service aggregating product data from multiple upstream domains into a single market-aware response. **Java 21 Virtual Threads**, graceful degradation, **Docker**.
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.5-brightgreen?logo=springboot)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
+Spring Boot service aggregating product data from multiple upstream domains into a single market-aware response. **Java 21 Virtual Threads**, graceful degradation, **Docker**.
 
 #### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
