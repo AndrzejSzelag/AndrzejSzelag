@@ -36,7 +36,7 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
-Spring Boot service aggregating product data from multiple upstream domains into a single market-aware response. **Java 21 Virtual Threads**, graceful degradation, **Docker**.
+Spring Boot service aggregating product data from multiple upstream domains into a single market-aware response (**Java 21 Virtual Threads**).
 
 #### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
@@ -73,7 +73,7 @@ IT System for Managing Railway Traffic Control (RTC) System Failures on Mining R
 
 ### GitHub Stats
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_icons=true&theme=ayu-mirage" width="48%" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=AndrzejSzelag&show_ic]ons=true&theme=ayu-mirage" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrzejSzelag&theme=ayu-mirage" width="48%" />-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrzejSzelag&layout=compact&theme=ayu-mirage" width="40%" />
 
