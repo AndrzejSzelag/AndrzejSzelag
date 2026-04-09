@@ -41,7 +41,7 @@
 ![React](https://img.shields.io/badge/React-19%20%2B%20Vite-61dafb?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ed?style=flat-square)
 
-AI Knowledge Base – A privacy-first RAG platform leveraging Spring AI and local LLMs (Ollama) to chat with your data without external API dependencies.
+A privacy-first RAG platform leveraging Spring AI and local LLMs (Ollama) to chat with your data without external API dependencies.
 
 #### 2. **Product Information Aggregator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/product-information-aggregator)
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
