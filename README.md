@@ -31,10 +31,15 @@
 ### Last Projects
 
 #### 1. **AI Knowledge Base** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/ai-knowledge-base)
-![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.5-brightgreen?logo=springboot)
-![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.1-6db33f?style=flat-square)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-1.0--M5-6db33f?style=flat-square)
+![Hibernate](https://img.shields.io/badge/Hibernate-6.6-b8860b?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-HNSW-336791?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-local-black?style=flat-square)
+![React](https://img.shields.io/badge/React-19%20%2B%20Vite-61dafb?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ed?style=flat-square)
 
 Spring Boot service aggregating product data from multiple upstream domains into a single market-aware response.
 
