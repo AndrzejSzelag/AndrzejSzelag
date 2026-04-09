@@ -30,7 +30,7 @@
 
 ### Last Projects
 
-#### 1. **Product Information Aggregator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/product-information-aggregator)
+#### 1. **AI Knowledge Bae** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/ai-knoledge-base)
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.5-brightgreen?logo=springboot)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
@@ -38,7 +38,15 @@
 
 Spring Boot service aggregating product data from multiple upstream domains into a single market-aware response.
 
-#### 2. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
+#### 2. **Product Information Aggregator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/product-information-aggregator)
+![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.5-brightgreen?logo=springboot)
+![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
+Spring Boot service aggregating product data from multiple upstream domains into a single market-aware response.
+
+#### 3. **GYM** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/gym)
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-6DB33F?logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6.4-6DB33F?logo=springsecurity&logoColor=white)
@@ -51,7 +59,7 @@ A professional web application for managing gym memberships, built with **Java 2
 and **PostgreSQL 16**. The system emphasizes **security-first design**, **clean architecture**, and **high developer ergonomics**,
 combining RBAC authorization, HTTPS, automated infrastructure, and a full quality pipeline.
 
-#### 3. **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
+#### 4. **Keycloak JWT Validator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/keycloak-jwt-validator-springboot-react)
 [<img alt="REST API" src="https://img.shields.io/badge/REST-API-009688.svg?logo=openapi-initiative">](https://restfulapi.net/)
 [<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.4.4-6DB33F.svg?logo=springboot">](<https://spring.io/projects/spring-boot>) 
 [<img alt="React" src="https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white">](https://react.dev/) 
@@ -60,7 +68,7 @@ combining RBAC authorization, HTTPS, automated infrastructure, and a full qualit
 
 A fullstack REST API application to decode and validate JWT tokens issued by Keycloak. Backend configured as an OAuth2 Resource Server using **NimbusJwtDecoder** for token signature validation.
 
-#### 4. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
+#### 5. **Fault Management System** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/fms)
 [<img alt="Java EE" src="https://img.shields.io/badge/Java EE-8.0.1-007396.svg?logo=java">](https://www.oracle.com/java/technologies/java-ee-glance.html)
 [<img alt="Maven" src="https://img.shields.io/badge/Maven-3.8.6-C71A36.svg?logo=apachemaven">](https://maven.apache.org/)
 [<img alt="Lombok" src="https://img.shields.io/badge/Lombok-1.18.26-DA525D.svg?logo=java">](https://projectlombok.org/)
