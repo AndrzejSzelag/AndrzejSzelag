@@ -30,7 +30,7 @@
 
 ### Last Projects
 
-#### 1. **AI Knowledge Bae** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/ai-knoledge-base)
+#### 1. **AI Knowledge Base** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/ai-knowledge-base)
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.5-brightgreen?logo=springboot)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
