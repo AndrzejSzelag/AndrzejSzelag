@@ -41,7 +41,7 @@
 ![React](https://img.shields.io/badge/React-19%20%2B%20Vite-61dafb?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ed?style=flat-square)
 
-A privacy-first RAG platform leveraging Spring AI and local LLMs (Llama 3.2:3B via Ollama) to chat with your data without external API dependencies.
+A privacy-first RAG platform that leverages Spring AI and local LLMs (Llama 3.2:3B via Ollama) to enable chatting with your data without relying on external APIs.
 
 #### 2. **Product Information Aggregator** [🔗 GitHub Repo](https://github.com/AndrzejSzelag/product-information-aggregator)
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
