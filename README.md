@@ -28,7 +28,9 @@
 ![Ollama](https://img.shields.io/badge/Ollama-local-black?style=flat-square)
 ![React](https://img.shields.io/badge/React-19%20%2B%20Vite-61dafb?style=flat-square)
 
-First public iteration of a privacy-first **RAG** platform: Spring AI with local LLMs (Llama 3.2 via Ollama), pgvector semantic search, SSE streaming, Google OAuth2, Bucket4j rate limiting. *(A substantially more advanced version is developed in a private repository.)*
+First public iteration of a privacy-first **RAG** platform: Spring AI with local LLMs (Llama 3.2 via Ollama), pgvector semantic search, SSE streaming, Google OAuth2, Bucket4j rate limiting. 
+
+> A substantially more advanced version is developed in a private repository.
 
 #### 2. **Product Information Aggregator** [🔗 Repo](https://github.com/AndrzejSzelag/product-information-aggregator)
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
