@@ -8,15 +8,6 @@
   <a href="https://www.youtube.com/@andrzej-szelag/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keycloak-0071C1?style=flat-square&logo=keycloak&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
 ### About Me
 - Java / Spring Boot engineer focused on **privacy-first GenAI**: RAG, vector search and local LLMs (Ollama) running without external APIs.
 - Strong focus on **Spring Security**, **Clean Architecture** and **SOLID**; hands-on **Docker** and **CI/CD**.
