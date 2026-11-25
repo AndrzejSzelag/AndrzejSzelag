@@ -24,7 +24,7 @@
 - Author of **7 technical IT books** (Helion).
 - Education: Lodz University of Technology (postgraduate, Java/Jakarta EE), Harvard CS50 Web (online course), Microsoft MCSA/MCSE: Security.
 
-> Some of my most recent work (an advanced RAG platform and a local voice AI coach) lives in private repositories. Happy to walk through the code and architecture on request.
+> Some of my most recent work (<b>an advanced RAG platform</b> and <b>a local voice AI coach</b>) lives in private repositories. Happy to walk through the code and architecture on request.
 
 ### Public Projects
 
