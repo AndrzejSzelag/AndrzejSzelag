@@ -9,7 +9,7 @@
 </p>
 
 ### About Me
-- Java / Spring Boot engineer focused on **privacy-first GenAI**: RAG, vector search and local LLMs (Ollama) running without external APIs.
+- Java / Spring Boot engineer focused on **privacy-first GenAI**: RAG, vector search and local LLMs running without external APIs.
 - Strong focus on **Spring Security**, **Clean Architecture** and **SOLID**; hands-on **Docker** and **CI/CD**.
 - I work with AI coding agents under explicit rules: plan, approval, small reviewed changes.
 - Author of **7 technical IT books** (Helion).
